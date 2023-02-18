@@ -1,0 +1,11 @@
+![logistic regression-01](https://user-images.githubusercontent.com/110339199/219899069-46c0229f-d18e-4c75-8973-76ba4b671479.png)
+![logistic regression-02](https://user-images.githubusercontent.com/110339199/219899070-42f306c3-16d9-4904-accd-64f5a4ecc27c.png)
+![logistic regression-03](https://user-images.githubusercontent.com/110339199/219899071-98be6ca5-2f0c-4097-97db-151782851bc0.png)
+![logistic regression-04](https://user-images.githubusercontent.com/110339199/219899073-cfcfce6d-1a5d-411e-b2ab-bc6ab3cc1035.png)
+![logistic regression-05](https://user-images.githubusercontent.com/110339199/219899075-a18db839-b4dc-45cd-8ebd-0907154e8a68.png)
+![logistic regression-06](https://user-images.githubusercontent.com/110339199/219899077-834ce4cd-39bc-4114-8139-87190a9a9aa8.png)
+![logistic regression-07](https://user-images.githubusercontent.com/110339199/219899078-0f8945f7-4688-472c-9487-b5b5da56d948.png)
+![logistic regression-08](https://user-images.githubusercontent.com/110339199/219899079-93dbfd43-256d-497f-976d-3add708534af.png)
+![logistic regression-09](https://user-images.githubusercontent.com/110339199/219899101-aef9b65d-afd7-4812-b93a-71050003b941.png)
+![logistic regression-10](https://user-images.githubusercontent.com/110339199/219899080-f06cb0d9-89fa-4855-95b0-18eb53964367.png)
+
